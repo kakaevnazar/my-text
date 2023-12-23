@@ -1,19 +1,34 @@
 body {
     font-family: sans-serif;
      text-align: center;
+    display: flex; 
+    margin: 0 auto;
+    justify-content: center;
 }
 
 p{
   color : royalblue;
   text-align: center;
+  display: flex;
+  margin: 0 auto; 
+  justify-content: center;
 }
 
 h1{
     color: slateblue;
+    display: flex; 
+    margin: 0 auto;
+    justify-content: center;
 }
 div{
     background-color: blueviolet;
+    display: flex; 
+    margin: 0 auto;
+    justify-content: center;
 }
 ol{
     color: lightblue;
+    display: flex; 
+margin: 0 auto;
+justify-content: center;
 }
