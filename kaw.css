@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+     text-align: center;
+}
+
+p{
+  color : royalblue;
+  text-align: center;
+}
+
+h1{
+    color: slateblue;
+}
+div{
+    background-color: blueviolet;
+}
+ol{
+    color: lightblue;
+}
